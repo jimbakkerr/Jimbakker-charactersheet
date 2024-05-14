@@ -286,7 +286,7 @@ body {
 
 .tab17 {
   background: white;
-  opacity: 0%;
+  opacity: 100%;
   width: 1050px;
   height: 600px;
   position: absolute;
@@ -297,6 +297,17 @@ body {
   animation-duration: 0.01s;
   animation-delay: 8s;
   animation-fill-mode: forwards;
+}
+
+.yourarchetype {
+  position: absolute;
+  left: 150px;
+  top: 100px;
+}
+.yourownperson {
+  position: absolute;
+left: 375px;
+top: 520px;
 }
 
 .jimbakker {
